@@ -18,18 +18,6 @@ On Premise APIs for Windows Forms, ASP.NET, WPF, WCF or any type of application 
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.ZIP Cross Platform Apps Include" >}}
-
-{{< blocks/products/pf/product pfName="Aspose.ZIP" title="Zip Files" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_zip-app.png" >}}
-Free App offering features to Compress files to create simple or protected zip archives from any OS, on any browser.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.ZIP" title="Unzip Files" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_unzip-app.png" >}}
-Uncompress zip archives to get individual files without leaving your favorite browser.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="https://products.aspose.app/zip/family" innerText="View All Cross Platform Apps" >}}
-
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
