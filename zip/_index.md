@@ -18,8 +18,6 @@ On Premise APIs for Windows Forms, ASP.NET, WPF, WCF or any type of application 
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< /blocks/products/pf/product-card-row >}}
-
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/testimonials title="" subTitle="" >}}
