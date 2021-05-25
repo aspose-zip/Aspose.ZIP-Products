@@ -5,7 +5,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Archive File Format Solution" h2="On Premise APIs and free apps offering features to compress & decompress ZIP, TAR, GZIP, BZ2 file formats." logoImageSrc="https://www.aspose.com/templates/brand/images/zip/aspose_zip-brand.png" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="Archive File Format Solution" h2="On Premise APIs and free apps offering features to compress & decompress ZIP, TAR, GZIP, BZ2 file formats." logoImageSrc="https://www.aspose.com/templates/brand/images/zip/aspose_zip-brand.png" imageAlt="Aspose.ZIP Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.ZIP On Premise APIs Include" >}}
