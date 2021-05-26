@@ -70,6 +70,8 @@ using (var arch = new Archive())
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online TXTВ Compression Live Demos" sectionDescription="CompressВ TXT documents right now by visiting our [Live Demos website](https://products.aspose.app/zip/zip-file). The live demo has the following benefits" >}}
@@ -85,6 +87,9 @@ A file with .TXT extension represents a text document that contains plain text i
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

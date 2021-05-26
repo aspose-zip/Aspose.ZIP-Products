@@ -70,6 +70,8 @@ using (var arch = new Archive())
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online PPSXВ Compression Live Demos" sectionDescription="CompressВ PPSX documents right now by visiting our [Live Demos website](https://products.aspose.app/zip/zip-file). The live demo has the following benefits" >}}
@@ -85,6 +87,9 @@ PPSX, Power Point Slide Show, file are created using Microsoft PowerPoint 2007 a
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

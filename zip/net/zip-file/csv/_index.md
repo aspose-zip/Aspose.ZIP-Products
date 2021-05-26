@@ -70,6 +70,8 @@ using (var arch = new Archive())
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online CSVВ Compression Live Demos" sectionDescription="CompressВ CSV documents right now by visiting our [Live Demos website](https://products.aspose.app/zip/zip-file). The live demo has the following benefits" >}}
@@ -85,6 +87,9 @@ Files with CSV (Comma Separated Values) extension represent plain text files tha
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

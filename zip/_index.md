@@ -10,11 +10,13 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.ZIP On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.ZIP for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.ZIP for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png" productLink="https://products.aspose.com/zip/net" >}}
 On Premise APIs for Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/zip/family" innerText="View All On Premise APIs" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

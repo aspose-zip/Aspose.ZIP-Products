@@ -18,9 +18,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.ZIP for .NET API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.ZIP for .NET supports any .NET framework starting from Standard 2.0 and can work on 32-bit & 64-bit operating systems." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -88,7 +85,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.ZIP for .NET supports standard ZIP file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.ZIP for .NET supports any .NET framework starting from Standard 2.0 and can work on 32-bit & 64-bit operating systems." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -112,6 +109,62 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="PostScript Conversion APIs" src="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png"/>
+  <header>
+   Aspose.ZIP
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.ZIP for .NET supports [standard ZIP](https://docs.aspose.com/zip/net/supported-file-formats/)  file formats." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input
+   </header>
+   <ul>
+    <li>
+     <strong>
+      Formats:
+     </strong>
+     ZIP, TAR, GZIP, BZ2, 7Zip, RAR
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output
+   </header>
+   <ul>
+    <li>
+     <strong>
+      Formats:
+     </strong>
+     ZIP, TAR, GZIP, BZ2, 7Zip
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET ZIP API" src="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png"/>
   <header>
    Aspose.ZIP
   </header>
