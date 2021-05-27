@@ -2,6 +2,7 @@
 title:  
 weight: 1310
 url: /net/zip-file/vdx/ 
+description: Try our On-Premise document compression and decompression APIs to compress VDX documents into a single zip archive or vice versa on .NET Framework, .NET Core.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

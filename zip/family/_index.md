@@ -2,6 +2,7 @@
 title: .NET Archiving API | Zip Files and Folder on Multiple Platforms 
 weight: 10
 url: /family
+description: Library to compress and decompress documents and folders within ZIP TAR GZIP BZ2 7Zip RAR file formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

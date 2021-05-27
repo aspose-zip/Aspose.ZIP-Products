@@ -2,6 +2,7 @@
 title:  
 weight: 940
 url: /net/zip-file/pdfe/ 
+description: Try our On-Premise document compression and decompression APIs to compress PDFE documents into a single zip archive or vice versa on .NET Framework, .NET Core.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

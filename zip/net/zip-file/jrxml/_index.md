@@ -2,6 +2,7 @@
 title:  
 weight: 630
 url: /net/zip-file/jrxml/ 
+description: Try our On-Premise document compression and decompression APIs to compress JRXML documents into a single zip archive or vice versa on .NET Framework, .NET Core.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

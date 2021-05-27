@@ -2,6 +2,7 @@
 title:  
 weight: 610
 url: /net/zip-file/jp2/ 
+description: Try our On-Premise document compression and decompression APIs to compress JP2 documents into a single zip archive or vice versa on .NET Framework, .NET Core.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

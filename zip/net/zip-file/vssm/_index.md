@@ -2,6 +2,7 @@
 title:  
 weight: 1360
 url: /net/zip-file/vssm/ 
+description: Try our On-Premise document compression and decompression APIs to compress VSSM documents into a single zip archive or vice versa on .NET Framework, .NET Core.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
