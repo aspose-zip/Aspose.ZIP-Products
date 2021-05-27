@@ -5,13 +5,17 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API for Files Compression & Archiving" h2="Compress file to create archives or Decompress archives of types ZIP, TAR, GZIP, BZ2, 7Zip, RAR from within any .NET based application." logoImageSrc="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/header/aspose_zip-for-net.png" pfName="Aspose.ZIP" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/zip/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API for Files Compression & Archiving" h2="Compress file to create archives or Decompress archives of types ZIP, TAR, GZIP, BZ2, 7Zip, RAR from within any .NET based application." logoImageSrc="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/header/aspose_zip-for-net.png" pfName="Aspose.ZIP for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/zip/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.ZIP" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png" liveDemosLink="https://products.aspose.app/zip/family" PricingLink="https://purchase.aspose.com/pricing/zip/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/zip/net/" instalationsDocsLink="https://docs.aspose.com/zip/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.ZIP/" nugetPackageName="Aspose.ZIP" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.ZIP for .NET is a flexible documents compression and archive manipulation API for standard ZIP format. API enables .NET applications to achieve files compression/decompression, archiving files as well as folders and encryption of archives. It provides protection via user-defined passwords and traditional encryption using ZipCrypto or AES encryption such as AES128, 192 and AES256.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -297,12 +301,6 @@ using (var arch = new Archive())
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -328,7 +326,7 @@ using (var arch = new Archive())
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/zip/net" pricingInformationLink="https://purchase.aspose.com/pricing/zip/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="" description="" >}}
 
     {{< blocks/products/pf/offers-section-item link="" imgSrc="" sdkName="" >}}
 
