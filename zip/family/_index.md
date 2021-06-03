@@ -6,7 +6,7 @@ description: Library to compress and decompress documents and folders within ZIP
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="ZIP Archive and Compression APIs" h2="Compress or decompress files or modify existing archives via .NET API." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/zip/header/aspose_zip.png" pfName="Aspose.ZIPВ" downloadUrl="https://downloads.aspose.com/zip" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="ZIP Archive and Compression APIs" h2="Compress or decompress files or modify existing archives via .NET API." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/zip/header/aspose_zip.png" pfName="Aspose.ZIP" downloadUrl="https://downloads.aspose.com/zip" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.ZIP On Premise APIs Include" >}}

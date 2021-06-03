@@ -1,6 +1,6 @@
 ---
 title: C# .NET Compression Library - Compress or Decompress Files & Folders 
-weight: 20
+weight: 320
 url: /net/ 
 description: .NET Core API to compress and decompress files using techniques such as ZIP, TAR, GZIP, BZ2.
 ---

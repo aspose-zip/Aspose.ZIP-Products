@@ -1,6 +1,6 @@
 ---
 title: Compress several files to create single archive or uncompress archives 
-weight: 1650
+weight: 1310
 url: /
 description: On premise APIs or Free Apps to compose archive, add entries or delete entries from existing archives. Encrypt using ZipCrypto or AES128, 192 and AES256.
 ---
