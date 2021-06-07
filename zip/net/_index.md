@@ -6,11 +6,11 @@ description: .NET Core API to compress and decompress files using techniques suc
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API for Files Compression & Archiving" h2="Compress file to create archives or Decompress archives of types ZIP, TAR, GZIP, BZ2, 7Zip, RAR from within any .NET based application." logoImageSrc="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/header/aspose_zip-for-net.png" pfName="Aspose.ZIP for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/zip/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API for Files Compression & Archiving" h2="Compress file to create archives or Decompress archives of types ZIP, TAR, GZIP, BZ2, 7Zip, RAR from within any .NET based application." logoImageSrc="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/header/aspose_zip-for-net.png" pfName="Aspose.ZIP" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/zip/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.ZIP" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png" liveDemosLink="https://products.aspose.app/zip/family" PricingLink="https://purchase.aspose.com/pricing/zip/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/zip/net/" instalationsDocsLink="https://docs.aspose.com/zip/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.ZIP/" nugetPackageName="Aspose.ZIP" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png" liveDemosLink="https://products.aspose.app/zip/family" PricingLink="https://purchase.aspose.com/pricing/zip/net" buyLink="https://purchase.aspose.com/pricing/zip/net" docsLink="https://docs.aspose.com/zip/net/" installationsDocsLink="https://docs.aspose.com/zip/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.ZIP/" nugetPackageName="Aspose.ZIP" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/zip/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
