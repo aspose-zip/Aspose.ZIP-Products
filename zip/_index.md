@@ -11,7 +11,7 @@ description: On premise APIs or Free Apps to compose archive, add entries or del
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.ZIP On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.ZIP for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png" productLink="https://products.aspose.com/zip/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.ZIP for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productLink="https://products.aspose.com/zip/net" >}}
 On Premise APIs for Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
