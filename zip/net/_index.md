@@ -6,7 +6,7 @@ description: .NET Core API to compress and decompress files using techniques suc
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API for Files Compression & Archiving" h2="Compress file to create archives or Decompress archives of types ZIP, TAR, GZIP, BZ2, 7Zip, RAR from within any .NET based application." logoImageSrc="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/header/aspose_zip-for-net.png" pfName="Aspose.ZIP" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/zip/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API for Files Compression & Archiving" h2="Compress file to create archives or Decompress archives of types ZIP, TAR, GZIP, BZ2, 7Zip, RAR from within any .NET based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" pfName="Aspose.ZIP" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/zip/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.ZIP" subTitlepfName="for .NET" >}}
 
