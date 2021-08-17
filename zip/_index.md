@@ -6,12 +6,12 @@ description: On premise APIs or Free Apps to compose archive, add entries or del
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Archive File Format Solution" h2="On Premise APIs and free apps offering features to compress & decompress ZIP, TAR, GZIP, BZ2 file formats." logoImageSrc="https://www.aspose.com/templates/brand/images/zip/aspose_zip-brand.png" imageAlt="Aspose.ZIP Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Archive File Format Solution" h2="On Premise APIs and free apps offering features to compress & decompress ZIP, TAR, GZIP, BZ2 file formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/headers/aspose_zip-brand.svg" imageAlt="Aspose.ZIP Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.ZIP On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.ZIP for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productLink="https://products.aspose.com/zip/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.ZIP for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productLink="https://products.aspose.com/zip/net/" >}}
 On Premise APIs for Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
