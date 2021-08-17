@@ -10,7 +10,7 @@ description: .NET Core API to compress and decompress files using techniques suc
 
 {{< blocks/products/pf/main-container pfName="Aspose.ZIP" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png" liveDemosLink="https://products.aspose.app/zip/family" PricingLink="https://purchase.aspose.com/pricing/zip/net" buyLink="https://purchase.aspose.com/pricing/zip/net" docsLink="https://docs.aspose.com/zip/net/" installationsDocsLink="https://docs.aspose.com/zip/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.ZIP/" nugetPackageName="Aspose.ZIP" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/zip/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" liveDemosLink="https://products.aspose.app/zip/family" PricingLink="https://purchase.aspose.com/pricing/zip/net" buyLink="https://purchase.aspose.com/pricing/zip/net" docsLink="https://docs.aspose.com/zip/net/" installationsDocsLink="https://docs.aspose.com/zip/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.ZIP/" nugetPackageName="Aspose.ZIP" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/zip/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -72,7 +72,7 @@ description: .NET Core API to compress and decompress files using techniques suc
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET ZIP Files Processing API" src="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png"/>
+  <img alt=".NET ZIP Files Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg"/>
   <header>
    Aspose.ZIP
   </header>
@@ -113,7 +113,7 @@ description: .NET Core API to compress and decompress files using techniques suc
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PostScript Conversion APIs" src="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png"/>
+  <img alt="PostScript Conversion APIs" src="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg"/>
   <header>
    Aspose.ZIP
   </header>
@@ -169,7 +169,7 @@ description: .NET Core API to compress and decompress files using techniques suc
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET ZIP API" src="https://cms.asposeptyltd.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png"/>
+  <img alt=".NET ZIP API" src="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg"/>
   <header>
    Aspose.ZIP
   </header>
