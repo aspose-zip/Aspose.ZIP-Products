@@ -10,7 +10,7 @@ description: .NET Core API to compress and decompress files using techniques suc
 
 {{< blocks/products/pf/main-container pfName="Aspose.ZIP" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" liveDemosLink="https://products.aspose.app/zip/family" PricingLink="https://purchase.aspose.com/pricing/zip/net" buyLink="https://purchase.aspose.com/pricing/zip/net" docsLink="https://docs.aspose.com/zip/net/" installationsDocsLink="https://docs.aspose.com/zip/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.ZIP/" nugetPackageName="Aspose.ZIP" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/zip/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" liveDemosLink="https://products.aspose.app/zip/family" PricingLink="https://purchase.aspose.com/pricing/zip/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/zip/net/" installationsDocsLink="https://docs.aspose.com/zip/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.ZIP/" nugetPackageName="Aspose.ZIP" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/zip/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
