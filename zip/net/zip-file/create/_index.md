@@ -15,7 +15,7 @@ description: C# source code for creating ZIP archives. Add single or multiple fi
 
  For creating a zip archive, we’ll use
  [Aspose.ZIP for .NET](https://products.aspose.com/zip/net) 
- API which is a feature-rich, powerful and easy to use. API allows to compress & decompress ZIP, TAR, GZIP, BZ2 file formats on .NET platform without any installing any software like WinRAR or 7ZIP. Moreover, developers can convert archive to another format. To add the reference, Open
+ API which is a feature-rich, powerful and easy to use API. It allows to compress & decompress ZIP, TAR, GZIP, BZ2 file formats on .NET platform without installing any software like WinRAR or 7ZIP. Moreover, developers can convert archive to another format. To add the reference, Open
  [NuGet](https://www.nuget.org/packages/aspose.zip) 
  package manager, search for
  **Aspose.ZIP** 
