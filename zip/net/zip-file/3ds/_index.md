@@ -117,6 +117,7 @@ A file with 3DS extension represents 3D Sudio (DOS) mesh file format used by Aut
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Compression / Decompression Formats" subTitle="Using C#, One can also compress / decompress many other formats including." >}}
 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/create/" name="ZIP Archive" description="Create a ZIP Archive via C#" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/3mf/" name="3MF" description="3D Manufacturing Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/aac/" name="AAC" description="Advanced Audio Coding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/amf/" name="AMF" description="Additive Manufacturing Format" >}}
