@@ -37,9 +37,7 @@ PM> Install-Package Aspose.ZIP
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic PNG document compression or decompression with
- [Aspose.ZIP for .NET](https://products.aspose.com/zip/net) 
- APIs can be done with just few lines of code.
+ Developers can easily zip folders, single or multiple files programmatically with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,7 +70,7 @@ var dir = "full directory path";
 using (var arch = new Archive())
 {
    arch.CreateEntry("image_name.png", dir+"file.png");
-   arch.Save(dir+"result.zip");
+   arch.Save(dir+"archived_result.zip");
 }
 
 ```
@@ -275,7 +273,7 @@ PNG, Portable Network Graphics, refers to a type of raster image file format tha
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/xps/" name="XPS" description="XML Paper Specifications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/xslfo/" name="XSLFO" description="XSL Formatting Objects" >}}
 
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

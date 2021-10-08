@@ -72,7 +72,7 @@ var dir = "full directory path";
 using (var arch = new Archive())
 {
    arch.CreateEntry("image_name.jpeg", dir+"file.jpeg");
-   arch.Save(dir+"result.zip");
+   arch.Save(dir+"archived_result.zip");
 }
 
 ```
@@ -275,7 +275,7 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/xps/" name="XPS" description="XML Paper Specifications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/xslfo/" name="XSLFO" description="XSL Formatting Objects" >}}
 
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
