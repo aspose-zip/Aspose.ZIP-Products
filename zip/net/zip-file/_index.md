@@ -18,7 +18,7 @@ It is a common practice to compress the contents of a file or folder into a zip 
 Creating archives having images including BMP, JPG, GIF, TIFF and more is simple using the API. Process of adding an image to archive is, Create a [FileStream object](https://docs.microsoft.com/en-us/dotnet/api/system.io.filestream?view=netframework-4.8) for the output Images ZIP archive. Open the source image into FileStream object. Create API's [Archives class](https://apireference.aspose.com/zip/net/aspose.zip/archive) object. Add the image using [CreateEntry method](https://apireference.aspose.com/zip/net/aspose.zip.archive/createentry/methods/1) into the archive.
 Create the archive containing images using [Save method](https://apireference.aspose.com/zip/net/aspose.zip/archive/methods/save).
 
-{{% blocks/products/pf/feature-page-code h3="C# Code for creating zip archive containing image files" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code for Creating ZIP Archive Containing Image Files" %}}
 
 {{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "create-zip-file-containing-images.cs" >}}
 
@@ -44,7 +44,7 @@ For creating ZIP archive of PDF documents, process is same as of images. Create 
 
 API supports archiving multiple files and folders with different encryption such as Traditional Encryption, AES128, AES192 and AES256 encryption. Process is same as of images and PDF archiving other than related encryption object.
 
-{{% blocks/products/pf/feature-page-code h3="C# Code for archiving multiple files with encryption" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code for Archiving Multiple Files with Encryption" %}}
 
 {{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "create-zip-multiple-files-with-password.cs" >}}
 
