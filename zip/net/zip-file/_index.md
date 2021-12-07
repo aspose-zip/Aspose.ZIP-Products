@@ -5,11 +5,11 @@ description: C# source code that compresses the contents of a file, multiple fil
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Creating zip archive via C#" h2="Add files or folders to ZIP archives programmatically within any .NET based application." >}}
+{{< blocks/products/pf/feature-page-header h1="Creating ZIP Archive Via C#" h2="Add files or folders to ZIP archives programmatically within any .NET based application." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-It is a common practice to compress the contents of a file or folder into a zip archive for utilizing the space, keeping backup, carrying data and saving data in more organized and managed way. Moreover, later on extracts that content to a new folder or drive. So for **How to Compress and Extract Files**, C# ZIP API has made it simple. C# Programmerts can easily integrate API and write code for compression of images, PDF files, Word documents, Excel Spreadsheets even whole folders. API supports ZipCrypto for generating password protected archives as well as using AES encryption to encrypt archive. Even developers can set parallel compression mode or use BZip2, LZMA or PPMd Compression within archive. Below are few sample code snippets for **creating C# based zip archives**.  
+It is a common practice to compress the contents of a file or folder into a ZIP archive for utilizing the space, keeping backup, carrying data and saving data in more organized and managed way. Moreover, later on extracts that content to a new folder or drive. So for **How to Compress and Extract Files**, C# ZIP API has made it simple. C# Programmerts can easily integrate API and write code for compression of images, PDF files, Word documents, Excel Spreadsheets even whole folders. API supports ZipCrypto for generating password protected archives as well as using AES encryption to encrypt archive. Even developers can set parallel compression mode or use BZip2, LZMA or PPMd Compression within archive. Below are few sample code snippets for **creating C# based zip archives**.  
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
