@@ -13,7 +13,7 @@ description: .NET Core API to compress and decompress files using techniques suc
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" liveDemosLink="https://products.aspose.app/zip/family" PricingLink="https://purchase.aspose.com/pricing/zip/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/zip/net/" installationsDocsLink="https://docs.aspose.com/zip/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.ZIP/" nugetPackageName="Aspose.ZIP" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/zip/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.ZIP for .NET is a flexible documents compression and archive manipulation API for standard ZIP format. API enables .NET applications to achieve files compression/decompression, archiving files as well as folders and encryption of archives. It provides protection via user-defined passwords and traditional encryption using ZipCrypto or AES encryption such as AES128, 192 and AES256.</p>
+<p>Aspose.ZIP for .NET is a flexible documents compression and archive manipulation API for standard ZIP format. API enables .NET applications to achieve files compression/decompression, archiving files as well as folders and encryption of archives. It provides protection via user-defined passwords and traditional encryption using ZipCrypto or AES encryption such as AES128, 192 and AES256.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -70,7 +70,7 @@ description: .NET Core API to compress and decompress files using techniques suc
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET ZIP Files Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg"/>
+  <img width="70" height="75" alt=".NET ZIP Files Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg"/>
   <header>
    Aspose.ZIP
   </header>
@@ -111,7 +111,7 @@ description: .NET Core API to compress and decompress files using techniques suc
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PostScript Conversion APIs" src="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg"/>
+  <img width="70" height="75" alt="PostScript Conversion APIs" src="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg"/>
   <header>
    Aspose.ZIP
   </header>
@@ -129,7 +129,7 @@ description: .NET Core API to compress and decompress files using techniques suc
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.ZIP for .NET supports [standard ZIP](https://docs.aspose.com/zip/net/supported-file-formats/)  file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.ZIP for .NET supports [standard ZIP](https://docs.aspose.com/zip/net/supported-file-formats/)  file formats." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -143,7 +143,7 @@ description: .NET Core API to compress and decompress files using techniques suc
      <strong>
       Formats:
      </strong>
-     ZIP, TAR, GZIP, BZ2, 7Zip, RAR
+     ZIP, TAR, GZIP, BZ2, 7Zip, RAR
     </li>
    </ul>
   </div>
@@ -167,7 +167,7 @@ description: .NET Core API to compress and decompress files using techniques suc
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET ZIP API" src="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg"/>
+  <img width="70" height="75" alt=".NET ZIP API" src="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg"/>
   <header>
    Aspose.ZIP
   </header>
@@ -267,11 +267,11 @@ description: .NET Core API to compress and decompress files using techniques suc
      Integrating Compression API in a .NET Application
     </h2>
     <p>
-     The compression library integration is simple whereas most of the compress &amp; decompress operations can be performed with just a few lines of code.
+     The compression library integration is simple whereas most of the compress &amp; decompress operations can be performed with just a few lines of code.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Single file compression - C#
+      Single file compression - C#
      </h3>
      <pre><code class="cs">var dir = "full directory path";
 
