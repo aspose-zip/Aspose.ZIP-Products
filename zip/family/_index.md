@@ -9,7 +9,7 @@ description: Library to compress and decompress documents and folders within ZIP
 {{< blocks/products/pf/upper-banner h1="ZIP Archive and Compression APIs" h2="Compress or decompress files or modify existing archives via .NET API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip.svg" pfName="Aspose.ZIP" downloadUrl="https://downloads.aspose.com/zip" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.ZIP On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.ZIP High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName=" Aspose.ZIP for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productLink="/zip/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
