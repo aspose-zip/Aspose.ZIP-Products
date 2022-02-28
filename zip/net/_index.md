@@ -273,17 +273,7 @@ description: .NET Core API to compress and decompress files using techniques suc
      <h3>
       Single file compression - C#
      </h3>
-     <pre><code class="cs">var dir = "full directory path";
-
-using (var arch = new Archive())
-
-{
-
-   arch.CreateEntry("filename.dat", dir+"file.dat");
-
-   arch.Save(dir+"result.zip");
-
-}</code></pre>
+     {{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "single-file-compression.cs" >}}
     </div>
    </div>
    <!-- <div class="col-lg-12">
