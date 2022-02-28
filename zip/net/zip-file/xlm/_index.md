@@ -67,15 +67,7 @@ PM> Install-Package Aspose.ZIP
 
 {{% blocks/products/pf/agp/code-block title="Compress XLM Files - C#" offSpacer="" %}}
 
-```cs
-var dir = "full directory path";
-using (var arch = new Archive())
-{
-   arch.CreateEntry("filename.xlm", dir+"file.xlm");
-   arch.Save(dir+"archived_result.zip");
-}
-
-```
+{{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "xlm-files-compression.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

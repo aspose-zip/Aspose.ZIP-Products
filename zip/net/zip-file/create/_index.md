@@ -70,18 +70,7 @@ Before executing the code below, please make sure that you have the following pr
 
 {{% blocks/products/pf/agp/code-block title="Create ZIP Archive - C# code example" offSpacer="" %}}
 
-```cs
-using (FileStream createdZip = File.Open(dataDir + "Compress_File_out.zip", FileMode.Create)){
-    using (FileStream src1 = File.Open(dataDir + "test.txt", FileMode.Open, FileAccess.Read)){
-        using (var arch = new Archive(new ArchiveEntrySettings())){
-
-            arch.CreateEntry("test.txt", src1);            
-            arch.Save(createdZip);
-        }
-    }
-}
-
-```
+{{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "create-zip-archive.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

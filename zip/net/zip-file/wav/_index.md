@@ -67,15 +67,7 @@ PM> Install-Package Aspose.ZIP
 
 {{% blocks/products/pf/agp/code-block title="Compress WAV Files - C#" offSpacer="" %}}
 
-```cs
-var dir = "full directory path";
-using (var arch = new Archive())
-{
-   arch.CreateEntry("filename.wav", dir+"file.wav");
-   arch.Save(dir+"archived_result.zip");
-}
-
-```
+{{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "wav-files-compression.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
