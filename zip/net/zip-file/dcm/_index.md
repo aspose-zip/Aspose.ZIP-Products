@@ -67,15 +67,7 @@ PM> Install-Package Aspose.ZIP
 
 {{% blocks/products/pf/agp/code-block title="Compress DCM Files - C#" offSpacer="" %}}
 
-```cs
-var dir = "full directory path";
-using (var arch = new Archive())
-{
-   arch.CreateEntry("filename.dcm", dir+"file.dcm");
-   arch.Save(dir+"archived_result.zip");
-}
-
-```
+{{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "compress-dcm-files.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
