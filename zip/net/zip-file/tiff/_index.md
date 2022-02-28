@@ -67,17 +67,9 @@ PM> Install-Package Aspose.ZIP
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Compress TIFF Files - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Compress TIFF Images - C#" offSpacer="" %}}
 
-```cs
-var dir = "full directory path";
-using (var arch = new Archive())
-{
-   arch.CreateEntry("image_name.tiff", dir+"file.tiff");
-   arch.Save(dir+"archived_result.zip");
-}
-
-```
+{{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "tiff-files-compression.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
