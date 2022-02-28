@@ -67,15 +67,7 @@ PM> Install-Package Aspose.ZIP
 
 {{% blocks/products/pf/agp/code-block title="Compress CS Files - C#" offSpacer="" %}}
 
-```cs
-var dir = "full directory path";
-using (var arch = new Archive())
-{
-   arch.CreateEntry("filename.cs", dir+"file.cs");
-   arch.Save(dir+"archived_result.zip");
-}
-
-```
+{{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "compress-cs-files.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
