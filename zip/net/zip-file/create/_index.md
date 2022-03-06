@@ -35,7 +35,7 @@ PM> Install-Package Aspose.ZIP
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps for 3DS Files Compression in C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps for Creating ZIP Archive in C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
