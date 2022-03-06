@@ -1,7 +1,7 @@
 ---
 title: Unlock ZIP archive via C#
 weight: 730
-url: /zip/net/unlock/ 
+url: /net/unlock/ 
 description: C# source code for decompression of traditionally password protected ZIP archives. Unlock ZIP archives programmatically.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Lock ZIP archive via C#
 weight: 730
-url: /zip/net/lock/ 
+url: /net/lock/ 
 description: C# source code for protecting ZIP archives with password. Add single or multiple files and folders to locked ZIP archives programmatically.
 ---
 
