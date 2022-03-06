@@ -18,8 +18,7 @@ description: C# source code for decompression of traditionally password protecte
  API which is a feature-rich, powerful and easy to use API. It allows to compress & decompress ZIP, TAR, GZIP, BZ2 file formats on .NET platform without installing any software like WinRAR or 7ZIP. Moreover, developers can convert archive to another format. To add the reference, Open
  [NuGet](https://www.nuget.org/packages/aspose.zip) 
  package manager, search for
- ```nuget install Aspose.Font``` 
- and install. You may also use the following command from the Package Manager Console.
+  Aspose.ZIP and install. You may also use the following command from the Package Manager Console ```nuget install Aspose.ZIP``` .
 
 {{% /blocks/products/pf/agp/content %}}
 
