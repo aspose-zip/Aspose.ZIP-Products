@@ -13,7 +13,7 @@ description: .NET Core API to compress and decompress files using techniques suc
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/aspose_zip-for-net.svg" liveDemosLink="https://products.aspose.app/zip/family" PricingLink="https://purchase.aspose.com/pricing/zip/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/zip/net/" installationsDocsLink="https://docs.aspose.com/zip/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.ZIP/" nugetPackageName="Aspose.ZIP" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/zip/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.ZIP for .NET is a flexible documents compression and archive manipulation API for standard ZIP format. API enables .NET applications to achieve files compression/decompression, archiving files as well as folders and encryption of archives. It provides protection via user-defined passwords and traditional encryption using ZipCrypto or AES encryption such as AES128, 192 and AES256.</p>
+<p>Aspose.ZIP for .NET is a flexible documents compression and archive manipulation API for standard ZIP format. API enables .NET applications to achieve files compression/decompression, archiving files as well as folders and encryption of archives. This API works with all well known archive formats: ZIP, RAR, 7Zip, GZIP, BZ2. And with many archive formats from Linux: CPIO, TAR, Lzip, Bzip2, XZ, Z. It provides protection via user-defined passwords and traditional encryption using ZipCrypto or AES encryption such as AES128, 192 and AES256.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -143,7 +143,7 @@ description: .NET Core API to compress and decompress files using techniques suc
      <strong>
       Formats:
      </strong>
-     ZIP, TAR, GZIP, BZ2, 7Zip, RAR
+     ZIP, 7Zip, RAR, TAR, GZIP, BZ2, GZIP, LZ, CPIO, RAR, XZ, Z, CAB
     </li>
    </ul>
   </div>
@@ -159,7 +159,7 @@ description: .NET Core API to compress and decompress files using techniques suc
      <strong>
       Formats:
      </strong>
-     ZIP, TAR, GZIP, BZ2, 7Zip
+     ZIP, 7Zip, TAR, GZIP, BZ2, GZIP, LZ, CPIO, RAR, XZ, Z, CAB
     </li>
    </ul>
   </div>
@@ -195,7 +195,7 @@ description: .NET Core API to compress and decompress files using techniques suc
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced .NET Core Compression Library Features
+    .NET Core and .NET Framework Compression API Features
    </h2>
    <p>
    </p>
@@ -273,7 +273,17 @@ description: .NET Core API to compress and decompress files using techniques suc
      <h3>
       Single file compression - C#
      </h3>
-     {{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "single-file-compression.cs" >}}
+     <pre><code class="cs">
+       var dir = "full directory path";
+
+       using (var arch = new Archive()){
+
+         arch.CreateEntry("filename.dat", dir+"file.dat");
+         arch.Save(dir+"result.zip");
+
+   } 
+    </code>
+    </pre>
     </div>
    </div>
    <!-- <div class="col-lg-12">
