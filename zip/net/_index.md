@@ -6,7 +6,7 @@ description: .NET Core API to compress and decompress files using techniques suc
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API for Files Compression & Archiving" h2="Compress file to create archives or Decompress archives of types ZIP, TAR, GZIP, BZ2, 7Zip, RAR from within any .NET based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/headers/aspose_zip-for-net.svg" pfName="Aspose.ZIP" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/zip/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API for Files Compression & Archiving" h2="Compress file to create archives or Decompress archives of types ZIP, 7Zip, RAR, TAR, GZIP, BZ2, LZ, CPIO, XZ, Z, CAB from within any .NET based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/headers/aspose_zip-for-net.svg" pfName="Aspose.ZIP" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/zip/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.ZIP" subTitlepfName="for .NET" >}}
 
@@ -143,7 +143,7 @@ description: .NET Core API to compress and decompress files using techniques suc
      <strong>
       Formats:
      </strong>
-     ZIP, 7Zip, RAR, TAR, GZIP, BZ2, GZIP, LZ, CPIO, RAR, XZ, Z, CAB
+     ZIP, 7Zip, RAR, TAR, GZIP, BZ2, GZIP, LZ, CPIO, XZ, Z, CAB
     </li>
    </ul>
   </div>
@@ -159,7 +159,7 @@ description: .NET Core API to compress and decompress files using techniques suc
      <strong>
       Formats:
      </strong>
-     ZIP, 7Zip, TAR, GZIP, BZ2, GZIP, LZ, CPIO, RAR, XZ, Z, CAB
+     ZIP, 7Zip, TAR, GZIP, BZ2, GZIP, LZ, CPIO, XZ, Z, CAB
     </li>
    </ul>
   </div>
@@ -274,14 +274,14 @@ description: .NET Core API to compress and decompress files using techniques suc
       Single file compression - C#
      </h3>
      <pre><code class="cs">
-       var dir = "full directory path";
+     var dir = "full directory path";
 
-       using (var arch = new Archive()){
+     using (var arch = new Archive()){
 
-         arch.CreateEntry("filename.dat", dir+"file.dat");
-         arch.Save(dir+"result.zip");
+        arch.CreateEntry("filename.dat", dir+"file.dat");
+        arch.Save(dir+"result.zip");
 
-   } 
+     } 
     </code>
     </pre>
     </div>
