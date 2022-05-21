@@ -6,7 +6,7 @@ description: High Code APIs or Free Apps to compose archive, add entries or dele
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Archive File Format Solution" h2="High Code APIs and free apps offering features to compress & decompress ZIP, 7Zip, RAR, TAR, GZIP, BZ2, LZ, CPIO, RAR, XZ, Z, CAB file formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/headers/aspose_zip-brand.svg" imageAlt="Aspose.ZIP Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Archive File Format Solution" h2="High Code APIs and free apps offering features to compress & decompress ZIP, 7Zip, RAR, TAR, GZIP, BZ2, LZ, CPIO, XZ, Z, CAB file formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/zip/headers/aspose_zip-brand.svg" imageAlt="Aspose.ZIP Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.ZIP High Code APIs Include" >}}
