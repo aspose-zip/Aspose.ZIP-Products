@@ -282,9 +282,9 @@ description: .NET Core API to compress and decompress files using techniques suc
         arch.Save(dir+"result.zip");
 
      } 
-    </code>
-    </pre>
-    </div>
+   </code>
+   </pre>
+   </div>
    </div>
    <!-- <div class="col-lg-12">
 
