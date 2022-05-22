@@ -65,9 +65,9 @@ PM> Install-Package Aspose.ZIP
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Compress BMP Files - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Extract BMP Files - C#" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "0e82250e6c3615557aaa48b2fee2486d" "compress-bmp-files.cs" >}}
+{{< gist "aspose-com-gists" "42ee14864d84aeae8619284450c3d628" "Examples-CSharp-CompressingAndDecompressingFolders-DecompressFolder-DecompressFolder.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
