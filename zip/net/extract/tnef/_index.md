@@ -13,9 +13,9 @@ description: C# decompression source code to extract TNEF documents from a singl
 
 {{% blocks/products/pf/agp/content h2="How to Extract TNEF File Using C#" %}}
 
- In order to compress or decompress TNEF file, we’ll use
+ In order to extract TNEF file, we’ll use
  [Aspose.ZIP for .NET](https://products.aspose.com/zip/net) 
- API which is a feature-rich, powerful and easy to use document compression and decompression API for C# platform. Open
+ API which is a feature-rich, powerful and easy to use document decompression API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.zip) 
  package manager, search for
  Aspose.ZIP 
@@ -47,7 +47,7 @@ PM> Install-Package Aspose.ZIP
 +  Open this file as stream for reading.
 +  Create Object of Archive, using path to archive as constructor parameter.
 +  Using the Archive object, extract its content to destination folder using its ExtractToDirectory method.
-+  Now you will get TNEF file as a zip file in a relevant folder without using any zip, rar or any other compatible program.
++  Now you will get archive content decompressed to destinantion folder.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

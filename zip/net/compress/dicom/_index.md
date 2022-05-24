@@ -13,7 +13,7 @@ description: C# compression source code to compress DICOM documents into a singl
 
 {{% blocks/products/pf/agp/content h2="How to Compress DICOM File Using C#" %}}
 
- In order to compress or decompress DICOM file, we’ll use
+ In order to compress DICOM file, we’ll use
  [Aspose.ZIP for .NET](https://products.aspose.com/zip/net) 
  API which is a feature-rich, powerful and easy to use document compression API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.zip) 
