@@ -13,7 +13,7 @@ description: C# compression source code to compress TIFF images into a single zi
 
 {{% blocks/products/pf/agp/content h2="How to Compress TIFF Image Using C#" %}}
 
- In order to compress or decompress TIFF Image, we’ll use
+ In order to compress TIFF Image, we’ll use
  [Aspose.ZIP for .NET](https://products.aspose.com/zip/net) 
  API which is a feature-rich, powerful and easy to use image compression API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.zip) 

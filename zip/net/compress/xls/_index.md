@@ -13,7 +13,7 @@ description: C# compression source code to compress XLS documents into a single 
 
 {{% blocks/products/pf/agp/content h2="How to Compress XLS File Using C#" %}}
 
- In order to compress or decompress XLS file, we’ll use
+ In order to compress XLS file, we’ll use
  [Aspose.ZIP for .NET](https://products.aspose.com/zip/net) 
  API which is a feature-rich, powerful and easy to use document compression API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.zip) 

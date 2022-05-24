@@ -13,9 +13,9 @@ description: C# decompression source code to extract X documents from a single a
 
 {{% blocks/products/pf/agp/content h2="How to Extract X File Using C#" %}}
 
- In order to compress or decompress X file, we’ll use
+ In order to extract X file, we’ll use
  [Aspose.ZIP for .NET](https://products.aspose.com/zip/net) 
- API which is a feature-rich, powerful and easy to use document compression and decompression API for C# platform. Open
+ API which is a feature-rich, powerful and easy to use document decompression API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.zip) 
  package manager, search for
  Aspose.ZIP 
@@ -47,7 +47,7 @@ PM> Install-Package Aspose.ZIP
 +  Open this file as stream for reading.
 +  Create Object of Archive, using path to archive as constructor parameter.
 +  Using the Archive object, extract its content to destination folder using its ExtractToDirectory method.
-+  Now you will get ___ archive content decompressed to destinantion folder.
++  Now you will get archive content decompressed to destinantion folder..
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.ZIP
 
 {{% blocks/products/pf/agp/code-block title="Extract X Files - C#" offSpacer="" %}}
 
-{{< {{< gist "aspose-com-gists" "42ee14864d84aeae8619284450c3d628" "Examples-CSharp-CompressingAndDecompressingFolders-DecompressFolder-DecompressFolder.cs" >}} >}}
+{{< gist "aspose-com-gists" "42ee14864d84aeae8619284450c3d628" "Examples-CSharp-CompressingAndDecompressingFolders-DecompressFolder-DecompressFolder.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

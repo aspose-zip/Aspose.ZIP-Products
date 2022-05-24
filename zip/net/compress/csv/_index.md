@@ -13,7 +13,7 @@ description: C# compression source code to compress CSV documents into a single 
 
 {{% blocks/products/pf/agp/content h2="How to Compress CSV File Using C#" %}}
 
- In order to compress or decompress CSV file, we’ll use
+ In order to compress CSV file, we’ll use
  [Aspose.ZIP for .NET](https://products.aspose.com/zip/net) 
  API which is a feature-rich, powerful and easy to use document compression API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.zip) 

@@ -13,7 +13,7 @@ description: C# compression source code to compress GIF Image into a single zip 
 
 {{% blocks/products/pf/agp/content h2="How to Compress GIF File Using C#" %}}
 
- In order to compress or decompress GIF image, we’ll use
+ In order to compress GIF image, we’ll use
  [Aspose.ZIP for .NET](https://products.aspose.com/zip/net) 
  API which is a feature-rich, powerful and easy to use image compression API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.zip) 
