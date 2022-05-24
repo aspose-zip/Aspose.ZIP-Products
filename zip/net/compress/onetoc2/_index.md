@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your ONETOC2 files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ONETOC2" readMoreLink="https://docs.fileformat.com/note-taking/onetoc2/" >}}
-Those who have worked with Microsoft OneNote application may have noticed the presence of .onetoc2 files in the notebook folder. Microsoft OneNote creates binary .onetoc2 file as Table of Contents for keeping an index about the ordering of different note-taking sections in a notebook. A notebook is a collection of section files that are stored in the same directory. The .onetoc2 file uses a collection of properties to specify settings such as order of sections within the notebook and the color of the notebook. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

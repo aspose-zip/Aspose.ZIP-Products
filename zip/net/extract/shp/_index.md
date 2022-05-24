@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your SHP files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-SHP is the file extension for one of the primary file types used for representation of ESRI Shapefile. It represents Geospatial information in the form of vector data to be used by Geographic Information Systems (GIS) applications. The format has been developed as open specifications in order to facilitate interoperability between ESRI and other software products. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -267,7 +262,7 @@ SHP is the file extension for one of the primary file types used for representat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xps/" name="XPS" description="XML Paper Specifications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xslfo/" name="XSLFO" description="XSL Formatting Objects" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

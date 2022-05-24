@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLTX files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-Files with XLTX extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLT files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
-Files with .XLT extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite.  Microsoft Office 97-2003 supported creating new XLT files as well as opening these. The latest version of Excel is still capable of opening this old format template files. Such a template file is used to quickly create new Excel files with default data and settings such as page formatting, font size, margins, charts, etc which can be further saved as new .XLS files. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -267,7 +262,7 @@ Files with .XLT extension are template files created with Microsoft Excel which 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xps/" name="XPS" description="XML Paper Specifications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xslfo/" name="XSLFO" description="XSL Formatting Objects" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

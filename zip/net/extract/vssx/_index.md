@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your VSSX files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="VSSX" readMoreLink="https://docs.fileformat.com/image/vssx/" >}}
-Files with .VSSX extension are drawing stencils created with Microsoft Visio 2013 and above. The VSSX file format can be opened with Visio 2013 and above. Visio files are known for representation of a variety of drawing elements such as collection of shapes, connectors, flowcharts, network layout, UML diagrams, software diagrams, database models, objects mapping and other similar information. Microsoft Visio also provides the capability to convert Visio files to different file formats such as PNG, BMP, PDF and others. It is available for both Windows and Mac OS. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -267,7 +262,7 @@ Files with .VSSX extension are drawing stencils created with Microsoft Visio 201
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xps/" name="XPS" description="XML Paper Specifications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xslfo/" name="XSLFO" description="XSL Formatting Objects" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

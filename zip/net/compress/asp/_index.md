@@ -1,7 +1,7 @@
 ---
 title: Compress ASP Files via .NET 
 weight: 1120
-url: /net/zip-file/asp/ 
+url: /net/compress/asp/ 
 description: C# compression source code to compress ASP documents into a single zip archive or vice versa on .NET Framework, .NET Core.
 ---
 
@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your ASP files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ASP" readMoreLink="https://docs.fileformat.com/web/asp/" >}}
-ASP stands for Active Server Pages which is a development framework for creating web pages. It enables computer code to be executed by an internal server to serve the web requests. When a request is generated for an ASP file by web browser, the server reads the the file and executes any code/script inside it to generate the HTML result which is returned to the browser for display. Unlike HTML pages, which are static pages served by the server, ASP files generate dynamic contents at runtime that may involve requests to data from a database. ASP pages typically use the .asp extension rather .html. Since code/script inside an ASP file is executed on the server side, requesting browser can't see the code used to build the served page. All modern browsers are capable of displaying pages generated as result. Being built on Microsoft technology, pages built with ASP are hosted on Microsoft Internet Information Services (IIS) servers. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -109,7 +104,7 @@ ASP stands for Active Server Pages which is a development framework for creating
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/" name="" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/compress/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

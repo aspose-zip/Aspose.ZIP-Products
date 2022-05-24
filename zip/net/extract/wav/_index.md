@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your WAV files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WAV" readMoreLink="https://docs.fileformat.com/audio/wav/" >}}
-WAV, known for WAVE (Waveform Audio File Format), is a subset of Microsoft's Resource Interchange File Format (RIFF) specification for storing digital audio files. The format doesn't apply any compression to the bitstream and stores the audio recordings with different sampling rates and bitrates. It has been and is one of the standard format for audio CDs. Wave files are larger in size as compared to new audio file formats such as MP3 which uses lossy compression to reduce the file size while maintaining the same audio quality. However, WAV files can be compressed using Audio Compression Manager (ACM) codecs. There are several APIs and applications available that can convert WAV files to other popular audio file formats. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -267,7 +262,7 @@ WAV, known for WAVE (Waveform Audio File Format), is a subset of Microsoft's Res
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xps/" name="XPS" description="XML Paper Specifications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xslfo/" name="XSLFO" description="XSL Formatting Objects" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

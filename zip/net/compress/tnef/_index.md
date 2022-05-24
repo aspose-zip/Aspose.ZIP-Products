@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your TNEF files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TNEF" readMoreLink="https://docs.fileformat.com/email/tnef/" >}}
-Transport Neutral Encapsulation Format (TNEF) is a Microsoft proprietary, for encapsulating email attachments based on Messaging Application Programming Interface (MAPI). Microsoft Outlook and Microsoft Exchange Server, entirely support TNEF while later decodes TNEF into MAPI and displays the formatted mails. An email attachment with TNEF encoding has a MIME type of MS-TNEF and stores as winmail/win.dat. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

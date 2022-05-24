@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your ICS files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICS" readMoreLink="https://docs.fileformat.com/email/ics/" >}}
-The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is an internet standard(RFC 2445) for exchanging and deploying the calendaring events and scheduling.  The iCalendar format is interoperable, thereby ensuring the exchange of calendar information among the users having different email applications. iCalendar formats the input data as a Multipurpose Internet Mail Extensions (MIME) and facilitates the object exchanged via different transport protocols. These transport protocols can be SMTP, HTTP, point-to-point asynchronous communication, and physical media based-network transport. iCalendar allows users to share events, date/time dependent tasks, and free/busy information via emails to other users who can respond back. iCalendar files store using suffixes  ".ics" ".iCalendar" or ".ifb" with a MIME type of "text/calendar". 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

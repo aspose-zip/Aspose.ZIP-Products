@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your PDFVT files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDFVT" readMoreLink="https://docs.fileformat.com/view/pdf/vt/" >}}
-PDF/VT, published as ISO 16612-2 in August 2010 as a standard, is designed to enable variable document printing (VDP) in a variety of environments. The standard makes Variable information and Transactional printing as its basis for the standard. The Variable data printing is used where part of information is different for each recipient of the content. The Transactional printing includes invoices, statements and other documents that combine billing information with marketing information. This results in a mix of improved processing of images, text and other content types. PDF/VT enables reliable and dynamic management of pages for High Volume Transactional Output (HVTO) print data by using the document part metadata (DPM) concept. PDF/VT files can be opened in Adobe Acrobat viewer without the need of adding any other component. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

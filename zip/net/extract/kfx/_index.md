@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your KFX files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="KFX" readMoreLink="https://docs.fileformat.com/ebook/kfx/" >}}
-A KFX file is an eBook that is created in the Amazon Kindle File Format 10 (KF10) for Kindle devices. Older versions of KIndle devices use AZW and AZW3 (KF8) file formats. KFX is an enhancement to previous versions with additional features specifically in terms of content layout presentation. It introduces new features like support for soft-hyphens using a new enhanced typesetting engine. It also introduces a new image file format called JXR, that has a higher compression ratio, and the new Bookerly font which is Kindle-exclusive font providing improved readability on digital devices. The format comes with enhanced capabilities such as multi-page thumbnails, contents auto-adjustment around images and videos at fixed locations resulting in improved page layout and DRM. To open and view such files, you can use Amazon Kinde app that is available for Windows, macOS, Android and iOS. Calibre is another eBook reader software application that can be used to read several different eBook file formats. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
@@ -267,7 +262,7 @@ A KFX file is an eBook that is created in the Amazon Kindle File Format 10 (KF10
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xps/" name="XPS" description="XML Paper Specifications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/xslfo/" name="XSLFO" description="XSL Formatting Objects" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/zip-file/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/zip/net/extract/create/" name="Create ZIP Archive via C#" description="Single or Multiple Files and Folders Archive" >}} {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

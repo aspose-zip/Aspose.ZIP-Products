@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your PDFE files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDFE" readMoreLink="https://docs.fileformat.com/view/pdf/e/" >}}
-The "E" in PDF/E stands for Engineering. PDF/E was published as ISO 24517 in 2008 as a standard for creating PDF based Engineering documents to be used in a variety of application areas. Key areas making use of PDF/E file format include geospatial, construction and manufacturing workflows. The PDF/E standard provides a mechanism for the exchange and archiving of engineering documents based on the PDF format. PDF/E comes with the support of interactive media, including animations and 3D engineering model data. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your MOV files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MOV" readMoreLink="https://docs.fileformat.com/video/mov/" >}}
-Mov or QuickTime File format is multimedia container which is developed by Apple: contains one or more tracks, each track holds a particular type of data i.e. Video, Audio, text etc. Mov format is compatible both in Windows and Macintosh systems. Mov uses MPEG-4 coded for compression and tracks are maintained in objects called atoms which are placed in a hierarchical data structure. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

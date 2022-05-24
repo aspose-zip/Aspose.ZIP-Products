@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your U3D files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="U3D" readMoreLink="https://docs.fileformat.com/3d/u3d/" >}}
-U3D (Universal 3D) is a compressed file format and data structure for 3D computer graphics. It contains 3D model information such as triangle meshes, lighting, shading, motion data, lines and points with color and structure. The format was accepted as ECMA-363 standard in August 2005. 3D PDF documents support U3D objects embedding and can be viewed in Adobe Reader (version 7 and onwards). U3D format was developed keeping in view the aim to establish a universal standard for three-dimensional data storage and exchange. However, the format finds its main utilization in encoding for 3D PDF rather than being used as an interchange format. Acrobat 3D converts a supported 3D file type to either U3D or PRC upon conversion into the PDF. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
