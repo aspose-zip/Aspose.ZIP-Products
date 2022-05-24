@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your SLN files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SLN" readMoreLink="https://docs.fileformat.com/programming/sln/" >}}
-A file with .SLN extension represents a Visual Studio solution file that keeps information about the organization of projects in a solution file. The contents of such a solution file are written in plain text inside the file and can be observed/edited by opening the file in any text editor. The information contained in a solution file remains persistent and is used to load the information associated with the solution such as projects and any other required information. The project files referenced by the solution file contain additional information to enable the environment for populating the hierarchy with that project's items. No data is stored in the .sln file, although project information can be written to the .sln file if required. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

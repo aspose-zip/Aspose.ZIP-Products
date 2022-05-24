@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your JRXML files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JRXML" readMoreLink="https://docs.fileformat.com/3d/jrxml/" >}}
-A JRXML file is created by JasperReports and contains design definition in popular XML file format. It stores all the design elements such as report layout, text fields, images, charts, parameters, and variables. JasperReports is a Java library used for creating reports programmatically by retrieving data from backend databases and storage media. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

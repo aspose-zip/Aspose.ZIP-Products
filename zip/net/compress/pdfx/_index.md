@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your PDFX files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDFX" readMoreLink="https://docs.fileformat.com/view/pdf/x/" >}}
-PDF/X is an ISO 15930 standard published in 2001 with a subset of PDF functionality. The standard was established and published based on specific requirements of the printing and publishing industries. The requirements for this standard were all devised as per the diverse needs of printing and publishing industries. PDF/X requires the conforming files to be complete i.e. self-contained. This requires that elements like fonts used in the page should be part of the document. Contents such as 3D or video cannot be a part of PDF/X document. The information contained in PDF/X document requires it to be accurate. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

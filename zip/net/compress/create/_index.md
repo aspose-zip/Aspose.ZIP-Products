@@ -1,7 +1,7 @@
 ---
 title: Create a Simple or Protected ZIP archive via C#
 weight: 730
-url: /net/zip-file/create/ 
+url: /net/compress/create/ 
 description: C# source code for creating ZIP archives. Add single or multiple files and folders to ZIP archives programmatically.
 ---
 

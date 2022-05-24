@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XOML files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XOML" readMoreLink="https://docs.fileformat.com/web/xoml/" >}}
-XOML is acronym for Extensible Object Markup Language and is a serialization format for Windows Workflow Foundation's workflow objects. Based on XAML, it is mostly used for creating user interfaces in plain XML. These are used to declare the workflow for user interface and are compiled along with the separate file containing implementation logic. It contains a tree based structure that defines a root workflow node, nested sub-elements and embedded segments of code. When a new workflow is created with Visual Studio for .NET, it has an option for you to choose whether it should be in Code format or Code Separated format. In case you select the later one, the IDE will create two files for you; one in XOML format (consisting of workflow layout and settings), and other is in .CS/.VB format where the programming code resides. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XAML files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
-XAML, Extensible Application Markup Language, extension files describe the user interface elements for software applications based on Windows Presentation Foundation (WPF). Though a language, it doesn't require to be programmed as it is based on standard format of XML which is easy to use and understand. XAML (pronounced as "zammel") was developed by Microsoft with specific aim for creating user interfaces. Its acronym original stood for Extensible Avalon Markup Language, where Avalon was the code-name for WPF. XAML files are sometimes saved with XOML extension as well. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

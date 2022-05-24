@@ -96,11 +96,6 @@ PM> Install-Package Aspose.ZIP
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your PDFUA files." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDFUA" readMoreLink="https://docs.fileformat.com/view/pdf/ua/" >}}
-PDF/UA was published as ISO Standard 14289-1 in August 2012 and is by far the first complete definition of a set of requirements for universally accessible PDF documents. The term "universally accessible" refers to the understanding that the information contained in a PDF document should be equally and independently accessible to everyone in general and to people with disabilities in particular. Introduction of the PDF/UA standard can be considered a major step for creating tools and applications in order to create and read PDF content. 
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
