@@ -78,23 +78,15 @@ PM> Install-Package Aspose.ZIP
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="" %}}
-
- Decompress KML files right now by visiting our
- [Live Demos website](https://products.aspose.app/zip/extract) 
- .
-
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online KML Deompression Live Demos" sectionDescription="Compress KML documents right now by visiting our [Live Demos website](https://products.aspose.app/zip/extract). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online KML Deompression Live Demos" sectionDescription="Extract KML documents right now by visiting our [Live Demos website](https://products.aspose.app/zip/extract). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your KML files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="  You will get compressed archives instantly." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="You will get decompressed content instantly" >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
