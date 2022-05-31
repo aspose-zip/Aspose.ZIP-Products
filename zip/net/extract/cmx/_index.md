@@ -35,7 +35,7 @@ PM> Install-Package Aspose.ZIP
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps for CMX Files Deompression in C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps for CMX Files Decompression in C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.ZIP
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online CMX Deompression Live Demos" sectionDescription="Extract CMX documents right now by visiting our [Live Demos website](https://products.aspose.app/zip/extract). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online CMX Decompression Live Demos" sectionDescription="Extract CMX documents right now by visiting our [Live Demos website](https://products.aspose.app/zip/extract). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your CMX files." >}}
