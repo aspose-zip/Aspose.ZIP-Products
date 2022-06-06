@@ -65,6 +65,33 @@ Combine several archives to another single one consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Merge two TAR archives to TAR - C#
+     </h3>
+     <pre><code class="cs">
+     string intermediateStorage = "storage";
+                DirectoryInfo stored = Directory.CreateDirectory(intermediateStorage);
+                using (TarArchive source1 = new TarArchive("source1.tar"))
+                {
+                    source1.ExtractToDirectory(intermediateStorage);
+                }
+
+                using (TarArchive source2 = new TarArchive("source2.tar"))
+                {
+                    source2.ExtractToDirectory(intermediateStorage);
+                }
+
+                using (TarArchive merged = new TarArchive())
+                {
+                    merged.CreateEntries(stored, false);
+                    merged.Save("merged.tar", TarFormat.Gnu);
+                }
+
+                stored.Delete(true);
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
