@@ -1,5 +1,5 @@
 ---
-title: Thư viện nén C # .NET - Nén hoặc giải nén tệp & thư mục 
+title: Thư viện nén C# .NET - Nén hoặc giải nén tệp & thư mục 
 weight: 320
 url: /vi/net/ 
 description: .NET Core API để nén và giải nén tệp bằng các kỹ thuật như ZIP TAR GZIP BZ2.
@@ -271,7 +271,7 @@ description: .NET Core API để nén và giải nén tệp bằng các kỹ thu
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Nén một tập tin - C #
+      Nén một tập tin - C#
      </h3>
      <pre><code class="cs">
      var dir = "full directory path";

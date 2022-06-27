@@ -1,5 +1,5 @@
 ---
-title: C # .NET Compression Library - ضغط أو فك ضغط الملفات والمجلدات 
+title: C# .NET Compression Library - ضغط أو فك ضغط الملفات والمجلدات 
 weight: 320
 url: /ar/net/ 
 description: NET Core API لضغط وفك ضغط الملفات باستخدام تقنيات مثل ZIP TAR GZIP BZ2.
@@ -271,7 +271,7 @@ description: NET Core API لضغط وفك ضغط الملفات باستخدام
     </p>
     <div class="codeblock" id="code">
      <h3>
-      ضغط ملف واحد - C #
+      ضغط ملف واحد - C#
      </h3>
      <pre><code class="cs">
      var dir = "full directory path";
