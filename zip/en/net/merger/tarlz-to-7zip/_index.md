@@ -65,6 +65,28 @@ Combine several archives to another single one consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Merge two TAR.LZ archives to 7ZIP - C#
+     </h3>
+     <pre><code class="cs">
+     string intermediateStorage = "storage";
+	DirectoryInfo stored = Directory.CreateDirectory(intermediateStorage);
+	using (TarArchive source1 = TarArchive.FromLZip("source1.tar.lz"))
+		source1.ExtractToDirectory(intermediateStorage);
+	using (TarArchive source2 = TarArchive.FromLZip("source2.tar.lz"))
+		source2.ExtractToDirectory(intermediateStorage);
+	using (SevenZipArchive merged = new SevenZipArchive(new SevenZipEntrySettings(new SevenZipLZMA2CompressionSettings())))
+	{
+		merged.CreateEntries(stored, false);
+		merged.Save("merged6.7z");
+	}
+
+	stored.Delete(true);
+
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}

@@ -64,9 +64,6 @@ Convertation from one archive format to another consist of following steps:
 <h2 class="h2title">
      Sample code to convert from RAR to ZIP 
     </h2>
-    <p>
-		Code to convert to various formats from RAR. The RAR archive contains several records, and the formats GZ, LZ, Z, XZ, BZ2 compress one source. Therefore compression in these formats occurs with packing at first in TAR archive that is typical for Linux
-    </p>
 	<div class="codeblock" id="code">
      <h3>
       Convert from RAR to ZIP - C#

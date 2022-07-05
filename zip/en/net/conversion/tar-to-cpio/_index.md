@@ -61,6 +61,29 @@ Convertation from one archive format to another consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Convert from TAR archives to CPIO - C#
+     </h3>
+     <pre><code class="cs">
+     using (CpioArchive tarArchive = new CpioArchive())
+{
+	using (TarArchive archive = new TarArchive("source1.tar"))
+	{
+		for (int i = 0; i < archive.Entries.Count; i++)
+		{
+			var ms = new MemoryStream();
+			archive.Entries[i].Extract(ms);
+			ms.Seek(0, SeekOrigin.Begin);
+			tarArchive.CreateEntry(archive.Entries[i].Name, ms);
+		}
+	}
+
+	tarArchive.Save("output.cpio");
+}
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
