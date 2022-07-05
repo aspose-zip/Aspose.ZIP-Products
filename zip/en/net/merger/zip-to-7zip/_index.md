@@ -65,6 +65,27 @@ Combine several archives to another single one consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Merge two ZIP archives to 7ZIP - C#
+     </h3>
+     <pre><code class="cs">
+     string intermediateStorage = "storage";
+	DirectoryInfo stored = Directory.CreateDirectory(intermediateStorage);
+	using (Archive source1 = new Archive("source1.zip"))
+		source1.ExtractToDirectory(intermediateStorage);
+	using (Archive source2 = new Archive("source2.zip"))
+		source2.ExtractToDirectory(intermediateStorage);
+	using (SevenZipArchive merged = new SevenZipArchive(new SevenZipEntrySettings(new SevenZipLZMA2CompressionSettings())))
+	{
+		merged.CreateEntries(stored, false);
+		merged.Save("merged2.7z");
+	}
+
+	stored.Delete(true);
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}

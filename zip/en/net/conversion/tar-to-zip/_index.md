@@ -61,6 +61,29 @@ Convertation from one archive format to another consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Convert from TAR archives to ZIP - C#
+     </h3>
+     <pre><code class="cs">
+     using (Archive zip = new Archive())
+{
+	using (TarArchive archive = new TarArchive("source.tar"))
+	{
+		for (int i = 0; i < archive.Entries.Count; i++)
+		{
+			var ms = new MemoryStream();
+			archive.Entries[i].Extract(ms);
+			ms.Seek(0, SeekOrigin.Begin);
+			zip.CreateEntry(archive.Entries[i].Name, ms);
+		}
+	}
+
+	zip.Save("output.zip");
+}
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}

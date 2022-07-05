@@ -61,6 +61,29 @@ Convertation from one archive format to another consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Convert from ZIP archives to TAR.XZ - C#
+     </h3>
+     <pre><code class="cs">
+     using (TarArchive tarArchive = new TarArchive())
+{
+	using (Archive archive = new Archive("source.zip"))
+	{
+		for (int i = 0; i < archive.Entries.Count; i++)
+		{
+			var ms = new MemoryStream();
+			archive.Entries[i].Extract(ms);
+			ms.Seek(0, SeekOrigin.Begin);
+			tarArchive.CreateEntry(archive.Entries[i].Name.Replace('\\', '/'), ms);
+		}
+	}
+
+	tarArchive.SaveXzCompressed("output.tar.xz");
+}
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}

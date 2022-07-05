@@ -65,6 +65,27 @@ Combine several archives to another single one consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Merge two RAR archives to ZIP - C#
+     </h3>
+     <pre><code class="cs">
+     string intermediateStorage = "storage";
+	DirectoryInfo stored = Directory.CreateDirectory(intermediateStorage);
+	
+	using (RarArchive source1 = new RarArchive("source1.rar"))
+		source1.ExtractToDirectory(intermediateStorage);
+	using (RarArchive source2 = new RarArchive("source2.rar"))
+		source2.ExtractToDirectory(intermediateStorage);
+	using (Archive merged = new Archive())
+	{
+		merged.CreateEntries(stored, false);
+		merged.Save("merged1.zip");
+	}
+	stored.Delete(true);
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}

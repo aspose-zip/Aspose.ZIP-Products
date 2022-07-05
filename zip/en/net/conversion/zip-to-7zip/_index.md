@@ -61,6 +61,29 @@ Convertation from one archive format to another consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Convert from ZIP archives to 7ZIP - C#
+     </h3>
+     <pre><code class="cs">
+     using (SevenZipArchive sevenZipArchive =  new SevenZipArchive(new SevenZipEntrySettings(new SevenZipLZMA2CompressionSettings(1048576))))
+{
+	using (Archive archive = new Archive("source.zip"))
+	{
+		for (int i = 0; i < archive.Entries.Count; i++)
+		{
+			var ms = new MemoryStream();
+			archive.Entries[i].Extract(ms);
+			ms.Seek(0, SeekOrigin.Begin);
+			sevenZipArchive.CreateEntry(archive.Entries[i].Name.Replace('\\', '/'), ms);
+		}
+	}
+
+	sevenZipArchive.Save("output.7z");
+}
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}

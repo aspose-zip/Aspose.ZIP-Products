@@ -61,6 +61,19 @@ Convertation from one archive format to another consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Convert from TAR archives to TAR.BZ2 - C#
+     </h3>
+     <pre><code class="cs">
+     using (Bzip2Archive archive = new Bzip2Archive())
+{
+	archive.SetSource("source1.tar");
+	archive.Save("output.tar.xz");
+}
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}

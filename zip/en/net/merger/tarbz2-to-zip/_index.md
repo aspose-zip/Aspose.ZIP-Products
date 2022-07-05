@@ -65,6 +65,42 @@ Combine several archives to another single one consist of following steps:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+<div class="codeblock" id="code">
+     <h3>
+      Merge two TAR.BZ2 archives to ZIP - C#
+     </h3>
+     <pre><code class="cs">
+     string intermediateStorage = "storage";
+	DirectoryInfo stored = Directory.CreateDirectory(intermediateStorage);
+	using (MemoryStream ms = new MemoryStream())
+	{
+		using (Bzip2Archive source1 = new Bzip2Archive("source1.tar.bz2"))
+			source1.Extract(ms);
+		ms.Seek(0, SeekOrigin.Begin);
+		using (TarArchive tar1 = new TarArchive(ms))
+			tar1.ExtractToDirectory(intermediateStorage);
+	}
+
+	using (MemoryStream ms = new MemoryStream())
+	{
+		using (Bzip2Archive source2 = new Bzip2Archive("source2.tar.bz2"))
+			source2.Extract(ms);
+		ms.Seek(0, SeekOrigin.Begin);
+		using (TarArchive tar2 = new TarArchive(ms))
+			tar2.ExtractToDirectory(intermediateStorage);
+	}
+
+	using (Archive merged = new Archive())
+	{
+		merged.CreateEntries(stored, false);
+		merged.Save("merged8.zip");
+	}
+
+	stored.Delete(true);
+
+</code></pre>
+</div>
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
